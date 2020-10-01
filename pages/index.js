@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
 
       <main>
         <h1 className="title">
-          Please Read{" "}
+          Please Don't Read{" "}
           <Link href="/posts/first-post">
             <a>this page!</a>
           </Link>
